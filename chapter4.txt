@@ -1,1 +1,2 @@
-i am learning merging and branching . thats why this chapter is made. lol
+i am learning merging and branching . thats why this chapter is made,
+now i am forking this using my temp account and then pulling request. lol
